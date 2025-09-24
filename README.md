@@ -6,7 +6,7 @@ This project is a step-by-step journey to build AI agents from scratch using Pyt
 
 ### ✅ Step 1: Simple Rule-Based Greeter Agent (The Foundation)
 
-Our first agent, `main.py`, was a simple "Greeter Bot" operating on a **Perceive-Think-Act** loop.
+Our first agent, `Greeter_bot.py`, was a simple "Greeter Bot" operating on a **Perceive-Think-Act** loop.
 
 -   **Perceive**: It checked the system's current hour.
 -   **Think**: It used a set of `if-elif-else` rules to decide on a greeting (e.g., "Good morning").
